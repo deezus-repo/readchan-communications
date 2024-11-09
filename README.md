@@ -1,1 +1,1 @@
-# Repo for ReadChan communications.
+# Repo for Read Chan communications.
