@@ -1,5 +1,5 @@
 {
-  aboutMessage: {
-    text: "Testing message, https://example.com"
+  "aboutMessage": {
+    "text": "Testing message, https://example.com"
   }
 }
