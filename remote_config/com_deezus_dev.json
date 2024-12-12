@@ -1,1 +1,5 @@
-{}
+{
+  "aboutMessage": {
+    "text": "Testing message, https://example.com"
+  }
+}
