@@ -2,9 +2,6 @@
   "aboutMessage": {
     "text": "Testing about message, https://example.com"
   },
-  "contactMessage": {
-    "text": "Testing contact message, https://example.com"
-  },
   "sideMenuMessage": {
     "text": "Testing side menu message, https://example.com"
   }
