@@ -1,5 +1,8 @@
 {
-  "contactMessage": {
-     "text": "My availability to fix issues with the app will be limited until May. I'm outside of my home country right now."
+  "message": {
+    "id": 5,
+    "title": "4chan is down",
+    "message": "4chan is down and this app (Read Chan) is unable to fetch threads from 4chan.\n\nIt is unclear when the issue will be resolved. I'm an unaffiliated third party app developer so I don't know.",
+    "isPersistent": true
   }
 }
