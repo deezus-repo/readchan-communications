@@ -1,7 +1,7 @@
 {
   "message": {
     "id": 5,
-    "title": "4chan is down",
+    "title": "4chan Is Down",
     "message": "4chan is down and this app (Read Chan) is unable to fetch threads from 4chan.\n\nIt is unclear when the issue will be resolved. I'm an unaffiliated third party app developer so I don't know.",
     "isPersistent": true
   }
