@@ -2,7 +2,7 @@
   "message": {
     "id": 6,
     "title": "4chan Is Down",
-    "message": "4chan is down and this app (Read Chan) is unable to fetch threads from 4chan.\n\nIt is unclear when the issue will be resolved. I'm an unaffiliated third party app developer so I don't know. Please stop blaming me for the issue. Every time there is a problem with 4chan, people downvote my app for it. ",
+    "message": "4chan is down and this app (Read Chan) is unable to fetch threads from 4chan.\n\nIt is unclear when the issue will be resolved. I'm an unaffiliated third party app developer so I don't know.\n\nPlease stop blaming me for the issue. Every time there is a problem with 4chan, people downvote my app for it.",
     "isPersistent": true
   }
 }
