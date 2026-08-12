@@ -1,1 +1,9 @@
-{}
+{
+  "message": {
+    "id": 12,
+    "title": "The free app is back",
+    "message": "The free app was banned from the store between August 3 and August 9. It's now available again. If you bought the paid version without realizing there was a free one, feel free to request a refund and switch over. There is no difference in features between the free and paid versions.",
+    "ctaButtonText": "Play Store",
+    "ctaButtonURL": "https://play.google.com/store/apps/details?id=com.deezus.pchan"
+  }
+}
